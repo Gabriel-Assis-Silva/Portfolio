@@ -42,7 +42,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por r
 | **Engenharia de Prompt e IA** | Técnicas de engenharia de prompt e aplicações práticas de Inteligência Artificial | ChatGPT · Copilot | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplica%C3%A7%C3%B5es%20em%20Ia/) |
 | **Programação de Computadores** | Algoritmos, estruturas de dados e lógica de programação em C | C | [Ver Projeto](./Programa%C3%A7%C3%A3o%20de%20Computadores/) |
 
-#### 🤖 Engenharia e Prompt e IA
+#### 🤖 Inteligência Artificial
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :---: | :---: |
 |**MedVet Connect** | Plataforma de Telemedicina Veterinária | Expo · TS · Jitsi Meet · Manus AI · React ... | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/MedVet%20Connect/) |
