@@ -43,9 +43,14 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por r
 | **Programação de Computadores** | Algoritmos, estruturas de dados e lógica de programação em C | C | [Ver Projeto](./Programa%C3%A7%C3%A3o%20de%20Computadores/) |
 
 #### 🤖 Inteligência Artificial
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :---: | :---: |
-|**MedVet Connect** | Plataforma de Telemedicina Veterinária | Expo · TS · Jitsi Meet · Manus AI · React ... | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/MedVet%20Connect/) |
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+|**SM2** | Classificação Visual usando o Teachable Machine | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM2%20-%20Laboratório%20de%20Classificação%20Visual/) |
+|**SM3** | Batalha entre Modelos e analisando seus resultados | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM3%20-%20Batalha%20de%20Modelos%20&%20Engenharia%20de%20Prompt%20(XML)/) |
+|**SM4** | Engenharia Reversa | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM4%20-%20Engenharia%20Reversa/) |
+|**SM5** | Do clone ao produto Viável | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM5%20-%20Do%20Clone%20ao%20Produto%20Mínimo%20Viável%20(MVP+)/) |
+|**SM6** | Engenharia de Software e IA com bubble.io | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM6%20-%20Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io/) |
+|**SM7** | Desenvolvimento de App de Videoconferência com Manus AI e Jitsi | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM7%20-%20Desenvolvimento%20de%20App%20de%20Videoconferência%20com%20Manus%20AI%20e%20Jitsi/) |
 
 ### 📂 Portfólio de Repositórios
 
