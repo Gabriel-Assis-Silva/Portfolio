@@ -45,7 +45,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por r
 #### 🤖 Engenharia e Prompt e IA
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :---: | :---: |
-|**MedVet Connect** | Plataforma de Telemedicina Veterinária | javascript - typescript - css - json - node.js | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/MedVet%20Connect/) |
+|**MedVet Connect** | Plataforma de Telemedicina Veterinária | Expo · TS · Jitsi Meet · Manus AI · React ... | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/MedVet%20Connect/) |
 
 ### 📂 Portfólio de Repositórios
 
