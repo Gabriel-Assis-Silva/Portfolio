@@ -70,9 +70,9 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por r
 Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `root/`: Arquivo de apresentação principal (`README.md`).
-- `matérias/Prototipagem de Sistemas Computacionais/`: Projetos e documentação da disciplina de Prototipagem.
-- `matérias/interface e jornada de usuário/`: Projetos e documentação da disciplina de Interface e UX.
-- `matérias/Engenharia de Prompt e Aplicações em Ia/`: Projetos e documentação da disciplina de IA e Prompt Engineering.
-- `matérias/Programação de Computadores/`: Projetos e documentação da disciplina de Programação em C.
+- `Prototipagem de Sistemas Computacionais/`: Projetos e documentação da disciplina de Prototipagem.
+- `interface e jornada de usuário/`: Projetos e documentação da disciplina de Interface e UX.
+- `Engenharia de Prompt e Aplicações em Ia/`: Projetos e documentação da disciplina de IA e Prompt Engineering.
+- `Programação de Computadores/`: Projetos e documentação da disciplina de Programação em C.
 
 > Os demais projetos referenciados estão em seus próprios repositórios públicos, acessíveis pelos links na tabela de projetos.
