@@ -34,10 +34,18 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por r
 
 ### 🏫 Portfólio Acadêmico
 
-#### 
+#### 📚 Matérias
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :---: | :---: |
-||||
+| **Prototipagem de Sistemas** | Prototipagem e design de interfaces de sistemas computacionais | Figma · Canva | [Ver Projeto](./Prototipagem%20de%20Sistemas%20Computacionais/) |
+| **Interface e Jornada de Usuário** | Estudo de UX/UI, personas, jornadas e design centrado no usuário | Figma | [Ver Projeto](./interface%20e%20jornada%20de%20usu%C3%A1rio/) |
+| **Engenharia de Prompt e IA** | Técnicas de engenharia de prompt e aplicações práticas de Inteligência Artificial | ChatGPT · Copilot | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplica%C3%A7%C3%B5es%20em%20Ia/) |
+| **Programação de Computadores** | Algoritmos, estruturas de dados e lógica de programação em C | C | [Ver Projeto](./Programa%C3%A7%C3%A3o%20de%20Computadores/) |
+
+#### 🤖 Engenharia e Prompt e IA
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :---: | :---: |
+|**MedVet Connect** | Plataforma de Telemedicina Veterinária | javascript - typescript - css - json - node.js | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/MedVet%20Connect/) |
 
 ### 📂 Portfólio de Repositórios
 
@@ -55,14 +63,6 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por r
 | **Cifra de César** | Implementação do algoritmo de criptografia clássica Cifra de César | C | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/Projetos-C/tree/main/CifraDeCesar) |
 | **Loja (C)** | Sistema de loja em linguagem C com operações de cadastro e controle de estoque | C | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/Projetos-C/tree/main/Loja) |
 | **Matrizes** | Exercícios de manipulação de matrizes em C | C | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/Projetos-C/tree/main/Matrizes) |
-
-#### 📚 Projetos Acadêmicos (Matérias)
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :---: | :---: |
-| **Prototipagem de Sistemas** | Prototipagem e design de interfaces de sistemas computacionais | Figma · Canva | [Ver Projeto](./matérias/Prototipagem%20de%20Sistemas%20Computacionais/) |
-| **Interface e Jornada de Usuário** | Estudo de UX/UI, personas, jornadas e design centrado no usuário | Figma | [Ver Projeto](./matérias/interface%20e%20jornada%20de%20usu%C3%A1rio/) |
-| **Engenharia de Prompt e IA** | Técnicas de engenharia de prompt e aplicações práticas de Inteligência Artificial | ChatGPT · Copilot | [Ver Projeto](./matérias/Engenharia%20de%20Prompt%20e%20Aplica%C3%A7%C3%B5es%20em%20Ia/) |
-| **Programação de Computadores** | Algoritmos, estruturas de dados e lógica de programação em C | C | [Ver Projeto](./matérias/Programa%C3%A7%C3%A3o%20de%20Computadores/) |
 
 ---
 
