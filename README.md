@@ -40,7 +40,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 ---
 
-### 📁 Portfólio de Projetos
+### 📁 Portfólio de Matérias
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -48,6 +48,12 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 | **Projeto Interface e Jornada de Usuário** | Pesquisa com usuários, personas, mapas de jornada e validação de usabilidade. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-interface-e-jornada-de-usuario) |
 | **Projeto Programação de Computadores** | Implementações em C com foco em algoritmos, estruturas e análise lógica. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-programacao-de-computadores) |
 | **Projeto Engenharia de Prompt e Aplicações em IA** | Conjunto de experimentos práticos (SM2-SM8) com LLMs, prompting, produção criativa e desenvolvimento assistido por IA. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia) |
+
+
+### Projetos
+
+#### Engenharia de Prompt e Aplicações em IA
+
 
 ---
 

@@ -26,11 +26,11 @@ O assistente (Gems) utilizado para modelagem das letras:
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Título da Faixa 01] | [Estilo/Influência] | [Adicionar MP3 em `audios/`] |
-| 02 | [Título da Faixa 02] | [Estilo/Influência] | [Adicionar MP3 em `audios/`] |
-| 03 | [Título da Faixa 03] | [Estilo/Influência] | [Adicionar MP3 em `audios/`] |
-| 04 | [Título da Faixa 04] | [Estilo/Influência] | [Adicionar MP3 em `audios/`] |
-| 05 | [Título da Faixa 05] | [Estilo/Influência] | [Adicionar MP3 em `audios/`] |
+| 01 | [Iron Crown Rebellion] | [Estilo/Influência] |     [Ver Arquivo](/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm8-musica-ia/audios/Iron%20Crown%20Rebellion.mp3) |
+| 02 | [Sulfur-Screaming Torches] | [Estilo/Influência] | [Ver Arquivo](/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm8-musica-ia/audios/Sulfur-Screaming%20Torches.mp3) |
+| 03 | [The Hollow Bastion] | [Estilo/Influência] |       [Ver Arquivo](/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm8-musica-ia/audios/The%20Hollow%20Bastion.mp3) |
+| 04 | [The Last Bastion's Echo] | [Estilo/Influência] |  [Ver Arquivo](/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm8-musica-ia/audios/The%20Last%20Bastion's%20Echo.mp3) |
+| 05 | [The Relentless Pursuit] | [Estilo/Influência] |   [Ver Arquivo](/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm8-musica-ia/audios/The%20Relentless%20Pursuit.mp3) |
 
 ## 📄 Processo de Criação
 1. **Curadoria:** selecionar letras de referência do artista base.
