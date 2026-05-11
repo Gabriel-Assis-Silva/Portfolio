@@ -104,7 +104,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
    - `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`
 4. Use os comandos conforme a tecnologia do projeto selecionado (os exemplos abaixo são ilustrativos; consulte o README de cada projeto para nomes de arquivos, flags e scripts exatos):
    - Python: `pip install -r requirements.txt`
-   - C: `gcc <arquivo-fonte>.c -o <executavel> && ./<executavel>`
+   - C: `gcc <arquivo-fonte>.c -o <executavel> && ./<executavel>` (substitua os campos entre `< >` pelos nomes reais)
    - JavaScript/TypeScript:
      - Desenvolvimento: `npm install && npm run dev`
      - Execução padrão: `npm run start`
