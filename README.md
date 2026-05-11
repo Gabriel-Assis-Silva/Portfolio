@@ -40,6 +40,15 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 ---
 
+### 📌 Navegação Rápida
+- [Portfólio de Matérias](#portfolio-materias)
+- [Projetos de Engenharia de Prompt e IA](#projetos-ia)
+- [Estrutura do Repositório](#estrutura-repositorio)
+- [Como Executar](#como-executar)
+
+---
+
+<a id="portfolio-materias"></a>
 ### 📁 Portfólio de Matérias
 
 | Projeto | Descrição | Link |
@@ -50,9 +59,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 | **Projeto Engenharia de Prompt e Aplicações em IA** | Conjunto de experimentos práticos (SM2-SM8) com LLMs, prompting, produção criativa e desenvolvimento assistido por IA. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia) |
 
 
-### Projetos
-
-#### Engenharia de Prompt e Aplicações em IA
+<a id="projetos-ia"></a>
+### Projetos de Engenharia de Prompt e Aplicações em IA
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -67,9 +75,38 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 ---
 
+<a id="estrutura-repositorio"></a>
 ### 🏗 Estrutura do Repositório
-- `README.md`: vitrine profissional principal.
-- `/projeto-prototipagem-de-sistemas-computacionais/`: documentação e artefatos de prototipagem.
-- `/projeto-interface-e-jornada-de-usuario/`: estudos de UX/UI, personas e jornadas.
-- `/projeto-programacao-de-computadores/`: documentação dos projetos de programação em C.
-- `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`: projetos SM2 a SM8 com README específico por projeto.
+| Caminho | Conteúdo |
+| :--- | :--- |
+| `README.md` | Vitrine profissional principal com visão geral dos projetos. |
+| `/projeto-prototipagem-de-sistemas-computacionais/` | Artefatos de prototipagem, wireframes e documentação de interface. |
+| `/projeto-interface-e-jornada-de-usuario/` | Pesquisa com usuários, personas e jornada de experiência. |
+| `/projeto-programacao-de-computadores/` | Exercícios e projetos em C com foco em lógica e algoritmos. |
+| `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/` | Trilha prática SM2 a SM8 com experimentos aplicados em IA. |
+
+---
+
+<a id="como-executar"></a>
+### 🚀 Como Executar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva.git
+   ```
+2. Entre na pasta:
+   ```bash
+   cd portfolio-gabriel-de-assis-silva
+   ```
+3. Acesse o diretório do projeto desejado e siga o README interno para dependências e execução:
+   - `/projeto-prototipagem-de-sistemas-computacionais/`
+   - `/projeto-interface-e-jornada-de-usuario/`
+   - `/projeto-programacao-de-computadores/`
+   - `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`
+4. Use os comandos conforme a tecnologia do projeto selecionado (os exemplos abaixo são ilustrativos; consulte o README de cada projeto para nomes de arquivos, flags e scripts exatos):
+   - Python: `pip install -r requirements.txt`
+   - C: `gcc <arquivo-fonte>.c -o <executavel> && ./<executavel>` (substitua os campos entre `< >` pelos nomes reais)
+   - JavaScript/TypeScript:
+     - Desenvolvimento: `npm install && npm run dev`
+     - Execução padrão: `npm run start`
+     - Build: `npm run build`
+     - Observação: confirme os scripts disponíveis no `package.json` do projeto.
