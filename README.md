@@ -41,13 +41,14 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 ---
 
 ### 📌 Navegação Rápida
-- [Portfólio de Matérias](#-portfólio-de-matérias)
+- [Portfólio de Matérias](#portfolio-materias)
 - [Projetos de Engenharia de Prompt e IA](#projetos-ia)
-- [Estrutura do Repositório](#-estrutura-do-repositório)
-- [Como Executar](#-como-executar)
+- [Estrutura do Repositório](#estrutura-repositorio)
+- [Como Executar](#como-executar)
 
 ---
 
+<a id="portfolio-materias"></a>
 ### 📁 Portfólio de Matérias
 
 | Projeto | Descrição | Link |
@@ -74,6 +75,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 ---
 
+<a id="estrutura-repositorio"></a>
 ### 🏗 Estrutura do Repositório
 | Caminho | Conteúdo |
 | :--- | :--- |
@@ -85,6 +87,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 ---
 
+<a id="como-executar"></a>
 ### 🚀 Como Executar
 1. Clone o repositório:
    ```bash
@@ -97,4 +100,4 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 3. Acesse o projeto desejado e siga o README interno para dependências e execução, conforme a tecnologia:
    - Python: `pip install -r requirements.txt`
    - C: `gcc arquivo.c -o app && ./app`
-   - JavaScript/TypeScript: `npm install && npm run <script>` (consulte o `package.json`/README do projeto para o script correto, como `dev`, `start` ou `build`)
+   - JavaScript/TypeScript: `npm install && npm run dev` (ou `npm run start` / `npm run build`, conforme o `package.json` do projeto)
