@@ -40,6 +40,14 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 ---
 
+### 📌 Navegação Rápida
+- [Portfólio de Matérias](#-portfólio-de-matérias)
+- [Projetos de Engenharia de Prompt e IA](#projetos)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
+- [Como Executar](#-como-executar)
+
+---
+
 ### 📁 Portfólio de Matérias
 
 | Projeto | Descrição | Link |
@@ -68,8 +76,23 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 ---
 
 ### 🏗 Estrutura do Repositório
-- `README.md`: vitrine profissional principal.
-- `/projeto-prototipagem-de-sistemas-computacionais/`: documentação e artefatos de prototipagem.
-- `/projeto-interface-e-jornada-de-usuario/`: estudos de UX/UI, personas e jornadas.
-- `/projeto-programacao-de-computadores/`: documentação dos projetos de programação em C.
-- `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`: projetos SM2 a SM8 com README específico por projeto.
+| Caminho | Conteúdo |
+| :--- | :--- |
+| `README.md` | Vitrine profissional principal com visão geral dos projetos. |
+| `/projeto-prototipagem-de-sistemas-computacionais/` | Artefatos de prototipação, wireframes e documentação de interface. |
+| `/projeto-interface-e-jornada-de-usuario/` | Pesquisa com usuários, personas e jornada de experiência. |
+| `/projeto-programacao-de-computadores/` | Exercícios e projetos em C com foco em lógica e algoritmos. |
+| `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/` | Trilha prática SM2 a SM8 com experimentos aplicados em IA. |
+
+---
+
+### 🚀 Como Executar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva.git
+   ```
+2. Entre na pasta:
+   ```bash
+   cd portfolio-gabriel-de-assis-silva
+   ```
+3. Acesse o projeto desejado e siga o README interno para dependências e execução (ex.: `pip install -r requirements.txt`, quando aplicável).
