@@ -97,7 +97,11 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
    ```bash
    cd portfolio-gabriel-de-assis-silva
    ```
-3. Acesse o projeto desejado (`/projeto-prototipagem-de-sistemas-computacionais/`, `/projeto-interface-e-jornada-de-usuario/`, `/projeto-programacao-de-computadores/` ou `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`) e siga o README interno para dependências e execução, conforme a tecnologia:
+3. Acesse o diretório do projeto desejado e siga o README interno para dependências e execução:
+   - `/projeto-prototipagem-de-sistemas-computacionais/`
+   - `/projeto-interface-e-jornada-de-usuario/`
+   - `/projeto-programacao-de-computadores/`
+   - `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`
    - Python: `pip install -r requirements.txt`
    - C: `gcc main.c -o app && ./app`
    - JavaScript/TypeScript: `npm install && npm run dev` para desenvolvimento; `npm run start` para execução padrão; `npm run build` para gerar build (confirme os scripts no `package.json` do projeto).
