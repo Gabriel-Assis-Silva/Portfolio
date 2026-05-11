@@ -42,7 +42,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 ### 📌 Navegação Rápida
 - [Portfólio de Matérias](#-portfólio-de-matérias)
-- [Projetos de Engenharia de Prompt e IA](#projetos)
+- [Projetos de Engenharia de Prompt e IA](#projetos-ia)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Como Executar](#-como-executar)
 
@@ -58,6 +58,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 | **Projeto Engenharia de Prompt e Aplicações em IA** | Conjunto de experimentos práticos (SM2-SM8) com LLMs, prompting, produção criativa e desenvolvimento assistido por IA. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia) |
 
 
+<a id="projetos-ia"></a>
 ### Projetos
 
 #### Engenharia de Prompt e Aplicações em IA
@@ -79,7 +80,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 | Caminho | Conteúdo |
 | :--- | :--- |
 | `README.md` | Vitrine profissional principal com visão geral dos projetos. |
-| `/projeto-prototipagem-de-sistemas-computacionais/` | Artefatos de prototipação, wireframes e documentação de interface. |
+| `/projeto-prototipagem-de-sistemas-computacionais/` | Artefatos de prototipagem, wireframes e documentação de interface. |
 | `/projeto-interface-e-jornada-de-usuario/` | Pesquisa com usuários, personas e jornada de experiência. |
 | `/projeto-programacao-de-computadores/` | Exercícios e projetos em C com foco em lógica e algoritmos. |
 | `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/` | Trilha prática SM2 a SM8 com experimentos aplicados em IA. |
