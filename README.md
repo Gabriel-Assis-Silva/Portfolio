@@ -1,83 +1,59 @@
 # Gabriel de Assis Silva
-> Estudante de Análise e Desenvolvimento de Sistemas
+> Estudante de **Análise e Desenvolvimento de Sistemas** em **Instituição de Ensino Superior**.
 
 ---
 
 ### 📫 Contato & Redes Sociais
-<a href="https://www.linkedin.com/in/gabriel-assis-silva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:gabriel.assis.silva@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-assis-silva)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.assis.silva@email.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva)
 
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por resolver problemas através da tecnologia, com foco em Desenvolvimento Web e programação estruturada.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha formação para projetos de **desenvolvimento web**, **lógica de programação em C** e **engenharia de prompt com IA**.
 
-* **Habilidades Técnicas:** HTML, CSS, JavaScript, C.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Desenvolvimento de um e-commerce completo em HTML/CSS/JS como projeto universitário em equipe (Meraki VitalSync), além de projetos individuais com JavaScript e C.
+- **Habilidades Técnicas:** HTML, CSS, JavaScript, C, TypeScript, React Native, SQL.
+- **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+- **Experiência/Projetos Relevantes:** Atuei no desenvolvimento de aplicações web e de protótipos acadêmicos, além de projetos com IA aplicada a resolução de problemas.
 
 ---
 
 ### 🛠 Minhas Ferramentas Favoritas
 
 #### 💻 Linguagens e Tecnologias
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🎨 Design & Prototipagem
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+#### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🤖 Inteligência Artificial & Engenharia de Prompt
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white">
+#### 🤖 Inteligência Artificial e Produtividade
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub_Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-### 🏫 Portfólio Acadêmico
+### 📁 Portfólio de Projetos
 
-#### 📚 Matérias
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :---: | :---: |
-| **Prototipagem de Sistemas** | Prototipagem e design de interfaces de sistemas computacionais | Figma · Canva | [Ver Projeto](./Prototipagem%20de%20Sistemas%20Computacionais/) |
-| **Interface e Jornada de Usuário** | Estudo de UX/UI, personas, jornadas e design centrado no usuário | Figma | [Ver Projeto](./interface%20e%20jornada%20de%20usu%C3%A1rio/) |
-| **Engenharia de Prompt e IA** | Técnicas de engenharia de prompt e aplicações práticas de Inteligência Artificial | ChatGPT · Copilot | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplica%C3%A7%C3%B5es%20em%20Ia/) |
-| **Programação de Computadores** | Algoritmos, estruturas de dados e lógica de programação em C | C | [Ver Projeto](./Programa%C3%A7%C3%A3o%20de%20Computadores/) |
-
-#### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-|**SM2** | Classificação Visual usando o Teachable Machine | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM2%20-%20Laboratório%20de%20Classificação%20Visual/) |
-|**SM3** | Batalha entre Modelos e analisando seus resultados | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM3%20-%20Batalha%20de%20Modelos%20&%20Engenharia%20de%20Prompt%20(XML)/) |
-|**SM4** | Engenharia Reversa | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM4%20-%20Engenharia%20Reversa/) |
-|**SM5** | Do clone ao produto Viável | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM5%20-%20Do%20Clone%20ao%20Produto%20Mínimo%20Viável%20(MVP+)/) |
-|**SM6** | Engenharia de Software e IA com bubble.io | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM6%20-%20Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io/) |
-|**SM7** | Desenvolvimento de App de Videoconferência com Manus AI e Jitsi | [Ver Projeto](./Engenharia%20de%20Prompt%20e%20Aplicações%20em%20Ia/SM7%20-%20Desenvolvimento%20de%20App%20de%20Videoconferência%20com%20Manus%20AI%20e%20Jitsi/) |
-
-### 📂 Portfólio de Repositórios
-
-#### 🌐 Desenvolvimento Web
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :---: | :---: |
-| **Meraki VitalSync** | E-commerce universitário para uma marca fictícia de pulseiras inteligentes. Desenvolvido em equipe com estrutura HTML semântica validada W3C, múltiplas páginas (Home, Catálogo, Planos, Login, Suporte, etc.) | HTML | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/HTML-UNI-Projeto) |
-| **FluxoMD** | Aplicação web para fluxo e edição de Markdown, com interface interativa e lógica em JavaScript | HTML · CSS · JS | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/FluxoMD) |
-| **RADAVE** | Projeto web multi-página com estrutura de formulários, alertas e navegação entre etapas | HTML · CSS · JS | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/RADAVE) |
-| **Projetos-HTML** | Coleção de exercícios e projetos práticos em HTML: estruturas base, inputs/outputs e layout de loja | HTML | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/Projetos-HTML) |
-
-#### ⚙️ Programação em C
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :---: | :---: |
-| **Cifra de César** | Implementação do algoritmo de criptografia clássica Cifra de César | C | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/Projetos-C/tree/main/CifraDeCesar) |
-| **Loja (C)** | Sistema de loja em linguagem C com operações de cadastro e controle de estoque | C | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/Projetos-C/tree/main/Loja) |
-| **Matrizes** | Exercícios de manipulação de matrizes em C | C | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/Projetos-C/tree/main/Matrizes) |
+| **Projeto Prototipagem de Sistemas Computacionais** | Wireframes, protótipos de baixa/alta fidelidade e documentação técnica de interface. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-prototipagem-de-sistemas-computacionais) |
+| **Projeto Interface e Jornada de Usuário** | Pesquisa com usuários, personas, mapas de jornada e validação de usabilidade. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-interface-e-jornada-de-usuario) |
+| **Projeto Programação de Computadores** | Implementações em C com foco em algoritmos, estruturas e análise lógica. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-programacao-de-computadores) |
+| **Projeto Engenharia de Prompt e Aplicações em IA** | Conjunto de experimentos práticos (SM2-SM7) com LLMs, prompting e desenvolvimento assistido por IA. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia) |
 
 ---
 
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
-
-- `root/`: Arquivo de apresentação principal (`README.md`).
-- `Prototipagem de Sistemas Computacionais/`: Projetos e documentação da disciplina de Prototipagem.
-- `interface e jornada de usuário/`: Projetos e documentação da disciplina de Interface e UX.
-- `Engenharia de Prompt e Aplicações em Ia/`: Projetos e documentação da disciplina de IA e Prompt Engineering.
-- `Programação de Computadores/`: Projetos e documentação da disciplina de Programação em C.
-
-> Os demais projetos referenciados estão em seus próprios repositórios públicos, acessíveis pelos links na tabela de projetos.
+- `README.md`: vitrine profissional principal.
+- `/projeto-prototipagem-de-sistemas-computacionais/`: documentação e artefatos de prototipagem.
+- `/projeto-interface-e-jornada-de-usuario/`: estudos de UX/UI, personas e jornadas.
+- `/projeto-programacao-de-computadores/`: documentação dos projetos de programação em C.
+- `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`: projetos SM2 a SM7 com README específico por projeto.
