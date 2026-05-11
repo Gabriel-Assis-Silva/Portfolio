@@ -105,4 +105,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 4. Use os comandos conforme a tecnologia do projeto selecionado:
    - Python: `pip install -r requirements.txt`
    - C: `gcc main.c -o app && ./app`
-   - JavaScript/TypeScript: `npm install && npm run dev` para desenvolvimento; `npm run start` para execução padrão; `npm run build` para gerar build (confirme os scripts no `package.json` do projeto).
+   - JavaScript/TypeScript:
+     - Desenvolvimento: `npm install && npm run dev`
+     - Execução padrão: `npm run start`
+     - Build: `npm run build`
+     - Observação: confirme os scripts disponíveis no `package.json` do projeto.
