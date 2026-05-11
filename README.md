@@ -103,6 +103,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
    - `/projeto-programacao-de-computadores/`
    - `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`
 4. Use os comandos conforme a tecnologia do projeto selecionado:
+   - Observação geral: os comandos abaixo são exemplos; consulte o README de cada projeto para nomes de arquivos, flags e scripts exatos.
    - Python: `pip install -r requirements.txt`
    - C: `gcc main.c -o app && ./app`
    - JavaScript/TypeScript:
