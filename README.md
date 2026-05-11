@@ -47,7 +47,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 | **Projeto Prototipagem de Sistemas Computacionais** | Wireframes, protótipos de baixa/alta fidelidade e documentação técnica de interface. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-prototipagem-de-sistemas-computacionais) |
 | **Projeto Interface e Jornada de Usuário** | Pesquisa com usuários, personas, mapas de jornada e validação de usabilidade. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-interface-e-jornada-de-usuario) |
 | **Projeto Programação de Computadores** | Implementações em C com foco em algoritmos, estruturas e análise lógica. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-programacao-de-computadores) |
-| **Projeto Engenharia de Prompt e Aplicações em IA** | Conjunto de experimentos práticos (SM2-SM7) com LLMs, prompting e desenvolvimento assistido por IA. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia) |
+| **Projeto Engenharia de Prompt e Aplicações em IA** | Conjunto de experimentos práticos (SM2-SM8) com LLMs, prompting, produção criativa e desenvolvimento assistido por IA. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia) |
 
 ---
 
@@ -56,4 +56,4 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 - `/projeto-prototipagem-de-sistemas-computacionais/`: documentação e artefatos de prototipagem.
 - `/projeto-interface-e-jornada-de-usuario/`: estudos de UX/UI, personas e jornadas.
 - `/projeto-programacao-de-computadores/`: documentação dos projetos de programação em C.
-- `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`: projetos SM2 a SM7 com README específico por projeto.
+- `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`: projetos SM2 a SM8 com README específico por projeto.
