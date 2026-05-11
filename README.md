@@ -59,7 +59,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 
 <a id="projetos-ia"></a>
-### Projetos
+### Projetos de Engenharia de Prompt e Aplicações em IA
 
 #### Engenharia de Prompt e Aplicações em IA
 
@@ -96,4 +96,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
    ```bash
    cd portfolio-gabriel-de-assis-silva
    ```
-3. Acesse o projeto desejado e siga o README interno para dependências e execução (ex.: `pip install -r requirements.txt`, quando aplicável).
+3. Acesse o projeto desejado e siga o README interno para dependências e execução, conforme a tecnologia:
+   - Python: `pip install -r requirements.txt`
+   - C: `gcc arquivo.c -o app && ./app`
+   - JavaScript/TypeScript: `npm install && npm run dev` (ou scripts equivalentes do projeto)
