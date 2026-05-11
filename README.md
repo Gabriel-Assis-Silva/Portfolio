@@ -58,6 +58,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 | **Projeto Engenharia de Prompt e Aplicações em IA** | Conjunto de experimentos práticos (SM2-SM8) com LLMs, prompting, produção criativa e desenvolvimento assistido por IA. | [Ver Projeto](https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia) |
 
 
+<a id="projetos-de-engenharia-de-prompt-e-aplicacoes-em-ia"></a>
 ### Projetos de Engenharia de Prompt e Aplicações em IA
 
 | Projeto | Descrição | Link |
