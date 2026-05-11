@@ -54,8 +54,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 
 #### Engenharia de Prompt e Aplicações em IA
 
-##### Subprojetos SM2 a SM8
-
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | SM2 - Classificação Visual | Classificação de imagens com Teachable Machine. | <a href="./projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm2-laboratorio-de-classificacao-visual/">Ver Projeto</a> |
