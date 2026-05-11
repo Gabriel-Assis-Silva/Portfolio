@@ -100,4 +100,4 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono minha fo
 3. Acesse o projeto desejado (`/projeto-prototipagem-de-sistemas-computacionais/`, `/projeto-interface-e-jornada-de-usuario/`, `/projeto-programacao-de-computadores/` ou `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`) e siga o README interno para dependências e execução, conforme a tecnologia:
    - Python: `pip install -r requirements.txt`
    - C: `gcc main.c -o app && ./app`
-   - JavaScript/TypeScript: `npm install && npm run dev` (ou `npm run start` / `npm run build`, conforme o `package.json` do projeto)
+   - JavaScript/TypeScript: `npm install && npm run dev` para desenvolvimento; `npm run start` para execução padrão; `npm run build` para gerar build (confirme os scripts no `package.json` do projeto).
